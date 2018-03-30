@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Ultimate Essentials Prestige Edition:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/Ultimate_Essentials_Prestige_Edition_jar</output-path>
-    <root id="archive" name="Ultimate Essentials Prestige Edition.jar">
-      <element id="module-output" name="Ultimate Essentials Prestige Edition" />
-    </root>
-  </artifact>
-</component>
