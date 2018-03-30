@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="latest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Minecraft Stuff/Spigot Jars/Latest/latest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Minecraft Stuff/Spigot Jars/Latest/latest.jar!/" />
+    </SOURCES>
+  </library>
+</component>
