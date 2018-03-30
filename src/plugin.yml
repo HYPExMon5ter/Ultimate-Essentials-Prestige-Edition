@@ -1,0 +1,10 @@
+name: Ultimate Essentials Prestige Edition
+main: net.hypexmon5ter.uepe.Main
+version: 0.0.1
+authors: [HYPExMon5ter, TheJimmyJ57]
+prefix: UEPE
+commands:
+  gamemode:
+    aliases: gm
+    permission: ue.gamemode
+    desciption: Change the gamemode of yourself or others
