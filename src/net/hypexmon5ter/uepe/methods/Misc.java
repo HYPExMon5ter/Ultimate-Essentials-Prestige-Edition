@@ -54,7 +54,7 @@ public class Misc {
         }
 
         t.setGameMode(g);
-        s.sendMessage("Succesfully set the gamemode of " + t.getName() + " to " + g.toString() + ".");
+        s.sendMessage("Successfully set the gamemode of " + t.getName() + " to " + g.toString() + ".");
         t.sendMessage(s.getName() + " has set your gamemode to " + g.toString() + ".");
     }
 

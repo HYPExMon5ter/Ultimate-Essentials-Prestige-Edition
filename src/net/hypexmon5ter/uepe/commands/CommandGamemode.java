@@ -11,8 +11,6 @@ import org.bukkit.entity.Player;
 
 public class CommandGamemode implements CommandExecutor {
 
-    private String permissionMsg = "You do not have permission to use this command.";
-
     private Misc m;
     private UltimateEssentialsPrestigeEdition UEPE;
 
