@@ -1,5 +1,5 @@
-name: Ultimate Essentials Prestige Edition
-main: net.hypexmon5ter.uepe.Main
+name: UltimateEssentialsPrestigeEdition
+main: net.hypexmon5ter.uepe.UltimateEssentialsPrestigeEdition
 version: 0.0.1
 authors: [HYPExMon5ter, TheJimmyJ57]
 prefix: UEPE
